@@ -1,0 +1,51 @@
+[90m= [39m[
+    {#6014
+      +"[1mTables_in_laravel[22m": "[32mcache[39m",
+    },
+    {#6012
+      +"[1mTables_in_laravel[22m": "[32mcache_locks[39m",
+    },
+    {#6011
+      +"[1mTables_in_laravel[22m": "[32mfailed_jobs[39m",
+    },
+    {#6010
+      +"[1mTables_in_laravel[22m": "[32mgenerated_codes[39m",
+    },
+    {#6009
+      +"[1mTables_in_laravel[22m": "[32mjob_batches[39m",
+    },
+    {#6008
+      +"[1mTables_in_laravel[22m": "[32mjobs[39m",
+    },
+    {#6015
+      +"[1mTables_in_laravel[22m": "[32mlogistics[39m",
+    },
+    {#6016
+      +"[1mTables_in_laravel[22m": "[32mmigrations[39m",
+    },
+    {#6017
+      +"[1mTables_in_laravel[22m": "[32morders[39m",
+    },
+    {#6018
+      +"[1mTables_in_laravel[22m": "[32mpassword_reset_tokens[39m",
+    },
+    {#6019
+      +"[1mTables_in_laravel[22m": "[32mpersonal_access_tokens[39m",
+    },
+    {#6020
+      +"[1mTables_in_laravel[22m": "[32mproducts[39m",
+    },
+    {#6021
+      +"[1mTables_in_laravel[22m": "[32msessions[39m",
+    },
+    {#6022
+      +"[1mTables_in_laravel[22m": "[32mtest[39m",
+    },
+    {#6023
+      +"[1mTables_in_laravel[22m": "[32muser_activities[39m",
+    },
+    {#6024
+      +"[1mTables_in_laravel[22m": "[32musers[39m",
+    },
+  ]
+
